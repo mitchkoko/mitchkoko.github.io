@@ -1,6 +1,6 @@
 {
-    "name": "doodlejumpweb",
-    "short_name": "doodlejumpweb",
+    "name": "testweb",
+    "short_name": "testweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
